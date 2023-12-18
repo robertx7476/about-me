@@ -13,4 +13,4 @@ My name is Robert Xu. I am *15 years old* and I live in **Brookyln**. The month 
 In **SEP**, I created a [portfolio](https://robertx7476.github.io/), in it I have a movie webpage. I created that movie webpage with my partner and the themes we were going for were *action* and *horror*.
 
 #### Random
-Does anyone know what a pangolin is? I asked a lot of people and I think only two knew.
+Does anyone know what a pangolin is? I asked a lot of people and I think only two people knew.
